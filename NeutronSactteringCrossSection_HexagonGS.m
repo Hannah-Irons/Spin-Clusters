@@ -8,7 +8,7 @@ source "functionsHex.m"
 
    sigmaz=[1,0;0,-1];
 
-   r_vec=[0.5,sqrt(3)/2;1,0;0.5,-sqrt(3)/2;-0.5,-sqrt(3)/2;-1,0;-0.5,sqrt(3)/2];
+   r_vec=[0.5,sqrt(3)/2;1,0;0.5,-sqrt(3)/2;-0.5,-sqrt(3)/2;-1,0;-0.5,sqrt(3)/2];  % r_vec is the vextor from the centre of the molecule to each spin ion.
 
    Nk=10;
 
